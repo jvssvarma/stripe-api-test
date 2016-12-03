@@ -10,6 +10,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem 'figaro'
 
 group :development, :test do
   gem 'sqlite3'
