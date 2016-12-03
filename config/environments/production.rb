@@ -15,7 +15,7 @@ Rails.application.configure do
   config.action_controller.perform_caching = true
 
   config.action_mailer.delivery_method = :smtp
-  config.action_mailer.default_url_options = { :host => 'secret-brook-20927.herokuapp.com', :protocol => 'https' }
+  config.action_mailer.default_url_options = { :host => 'polar-mesa-67085.herokuapp.com', :protocol => 'https' }
 
   # Disable serving static files from the `/public` folder by default since
   # Apache or NGINX already handles this.
