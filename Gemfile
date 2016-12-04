@@ -11,6 +11,7 @@ gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 gem 'figaro'
+gem 'stripe'
 
 group :development, :test do
   gem 'sqlite3'
